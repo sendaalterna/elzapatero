@@ -1435,13 +1435,7 @@ body {
 .cid-r22dCc6AEe {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #fd00e4, #ff3366);
-}
-.cid-r22dCc6AEe .main {
-  flex-direction: row-reverse;
-}
-.cid-r22dCc6AEe .main .mbr-section-btn {
-  text-align: right;
+  background-image: url("../../../assets/images/conejo-1260x363.jpg");
 }
 .cid-r22dCc6AEe .btn {
   margin: 0 0 .5rem 0;
